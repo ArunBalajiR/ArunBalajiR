@@ -45,14 +45,7 @@ Hi, I'm  [Arun Balaji ](https://www.linkedin.com/in/arun-balaji-r-57400a181/) , 
 
 
 ## Skills
-<img src="https://img.shields.io/badge/Python -ff7b19" /> 
-<img src="https://img.shields.io/badge/JavaScript -ffc742" /> 
-<img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" />
-<img src="https://img.shields.io/badge/Django -41b883" />
-<img src="https://img.shields.io/badge/Wordpress -FF0000" />  
-
-
-<img src="https://img.shields.io/badge/Photoshop -30a8fe" />
+<img src="https://img.shields.io/badge/Python -ff7b19" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" /><img src="https://img.shields.io/badge/Django -41b883" /><img src="https://img.shields.io/badge/Wordpress -FF0000" />  <img src="https://img.shields.io/badge/Photoshop -30a8fe" />
 
 </br>
 <details>

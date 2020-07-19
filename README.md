@@ -1,30 +1,30 @@
 # 🖥 Hi there, I'm Arun Balaji ! 👋
 
 <a href="mailto:arunbalaji25062k@gmail.com">
-  <img align="left" alt="Arun Balaji | gmail" width="21px" src="assets/gmail.png" />
+  <img align="left" alt="Arun Balaji | gmail" width="21px" src="https://github.com/ArunBalajiR/ArunBalajiR/blob/master/assets/gmail.png" />
   
 </a>
 <a href="https://www.linkedin.com/in/arun-balaji-r-57400a181/">
-  <img align="left" alt="Arun Balaji | Linkedin" width="21px" src="assets/linkedin.png" />
+  <img align="left" alt="Arun Balaji | Linkedin" width="21px" src="https://github.com/ArunBalajiR/ArunBalajiR/blob/master/assets/linkedin.png" />
 </a>
 
 <a href="https://stackoverflow.com/users/13299329/arun-balaji">
-  <img align="left" alt="Arun Balaji | stackoverflow" width="21px" src="assets/stackoverflow.png" />
+  <img align="left" alt="Arun Balaji | stackoverflow" width="21px" src="https://github.com/ArunBalajiR/ArunBalajiR/blob/master/assets/stackoverflow.png" />
   
 </a>
 
 <a href="https://twitter.com/arunadhigaaram">
-  <img align="left" alt="Arun Balaji | Twitter" width="21px" src="assets/twitter.svg" />
+  <img align="left" alt="Arun Balaji | Twitter" width="21px" src="https://github.com/ArunBalajiR/ArunBalajiR/blob/master/assets/twitter.svg" />
 </a>
 
 <a href="https://www.instagram.com/arunadhigaaram/">
-  <img align="left" alt="Arun Balaji | Instagram" width="21px" src="assets/instagram.png" />
+  <img align="left" alt="Arun Balaji | Instagram" width="21px" src="https://github.com/ArunBalajiR/ArunBalajiR/blob/master/assets/instagram.png" />
 
 </a>
 
 
 <a href="https://www.facebook.com/arun.balaji.3705/">
-  <img align="left" alt="Arun Balaji | facebook" width="21px" src="assets/facebook.webp" />
+  <img align="left" alt="Arun Balaji | facebook" width="21px" src="https://github.com/ArunBalajiR/ArunBalajiR/blob/master/assets/facebook.webp" />
   
 </a>
 

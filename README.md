@@ -54,7 +54,8 @@ Hi, I'm  [Arun Balaji ](https://www.linkedin.com/in/arun-balaji-r-57400a181/) , 
         <li>PyCharm</li>
     	<li>Visual Studio Code</li>
         <li>Adobe Photoshop</li>
-		<li>Adobe After Effects</li>
+	<li>Adobe XD</li>
+	<li>Adobe After Effects</li>
     </ul>
 
 </details>

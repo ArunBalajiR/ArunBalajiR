@@ -33,7 +33,7 @@
 <br />
 <br />
 
-Hi, I'm  [Arun Balaji ](https://www.linkedin.com/in/arun-balaji-r-57400a181/) , a passionate Web developer from India.
+Hi, I'm  [Arun Balaji ](https://www.linkedin.com/in/arun-balaji-r-57400a181/) ,Developer who designs from India.
 
 ## 
 

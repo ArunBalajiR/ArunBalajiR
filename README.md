@@ -1,7 +1,5 @@
 # 🖥 Hi there, I'm Arun Balaji ! 👋
 
-<a href="mailto:arunbalaji25062k@gmail.com">
-  <img align="left" alt="Arun Balaji | gmail" width="21px" src="https://github.com/ArunBalajiR/ArunBalajiR/blob/master/assets/gmail.png" />
   
 <a href="https://twitter.com/arunadhigaaram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arunadhigaaram" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arunadhigaaram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arunadhigaaram" height="30" width="40" /></a>

@@ -3,30 +3,14 @@
 <a href="mailto:arunbalaji25062k@gmail.com">
   <img align="left" alt="Arun Balaji | gmail" width="21px" src="https://github.com/ArunBalajiR/ArunBalajiR/blob/master/assets/gmail.png" />
   
-</a>
-<a href="https://www.linkedin.com/in/arun-balaji-r-57400a181/">
-  <img align="left" alt="Arun Balaji | Linkedin" width="21px" src="https://github.com/ArunBalajiR/ArunBalajiR/blob/master/assets/linkedin.png" />
-</a>
-
-<a href="https://stackoverflow.com/users/13299329/arun-balaji">
-  <img align="left" alt="Arun Balaji | stackoverflow" width="21px" src="https://github.com/ArunBalajiR/ArunBalajiR/blob/master/assets/stackoverflow.png" />
-  
-</a>
-
-<a href="https://twitter.com/arunadhigaaram">
-  <img align="left" alt="Arun Balaji | Twitter" width="21px" src="https://github.com/ArunBalajiR/ArunBalajiR/blob/master/assets/twitter.svg" />
-</a>
-
-<a href="https://www.instagram.com/arunadhigaaram/">
-  <img align="left" alt="Arun Balaji | Instagram" width="21px" src="https://github.com/ArunBalajiR/ArunBalajiR/blob/master/assets/instagram.png" />
-
-</a>
-
-
-<a href="https://www.facebook.com/arun.balaji.3705/">
-  <img align="left" alt="Arun Balaji | facebook" width="21px" src="https://github.com/ArunBalajiR/ArunBalajiR/blob/master/assets/facebook.webp" />
-  
-</a>
+<a href="https://twitter.com/arunadhigaaram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arunadhigaaram" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arunadhigaaram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arunadhigaaram" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13299329" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13299329" height="30" width="40" /></a>
+<a href="https://fb.com/arunadhigaaram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="arunadhigaaram" height="30" width="40" /></a>
+<a href="https://instagram.com/arunadhigaaram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="arunadhigaaram" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arunadhigaaram" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="arunadhigaaram" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/arunbalaji" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="arunbalaji" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/arunbalajir" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="arunbalajir" height="30" width="40" /></a>
 
 
 
@@ -41,32 +25,13 @@ Hi, I'm  [Arun Balaji ](https://www.linkedin.com/in/arun-balaji-r-57400a181/) ,D
 - Web Fanatic
 - Front-End development
 - UI Crafting
-- Photo Editing
+- Flutter 
 
 
 ## Skills
-<img src="https://img.shields.io/badge/Python -ff7b19" /> <img src="https://img.shields.io/badge/JavaScript -ffc742" /> <img src="https://img.shields.io/badge/HTML5-ff7851" /> <img src="https://img.shields.io/badge/CSS3-44b2fb" /> <img src="https://img.shields.io/badge/Bootstrap -563d7c" /><img src="https://img.shields.io/badge/Django -41b883" /><img src="https://img.shields.io/badge/Wordpress -FF0000" />  <img src="https://img.shields.io/badge/Photoshop -30a8fe" />
-
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </br>
-<details>
-	<summary>Tools</summary>
-	<ul>
-        <li>PyCharm</li>
-    	<li>Visual Studio Code</li>
-        <li>Adobe Photoshop</li>
-	<li>Adobe XD</li>
-	<li>Adobe After Effects</li>
-    </ul>
 
-</details>
-
-<details>
-	<summary>Operating Systems</summary>
-	<ul>
-		<li>Windows</li>
-        <li>Linux</li>
-	</ul>
-</details>
 </br>
 </br>
 
